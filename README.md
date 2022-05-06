@@ -1,9 +1,9 @@
 # Projet IA - Smart City
 
 
---Dans le cadre du projet IA Smart City, nous avons choisi de travailler sur le sujet de l'au potable en France.
+Dans le cadre du projet IA Smart City, nous avons choisi de travailler sur le sujet de l'eau potable en France.
 
---En effet, en présence de différentes formes de pollution qui affectent les ressources d'eau, nous allons étudier lors de ce projet d'une part le taux de la consommation moyenne d'eau par les habitants et d'autre part le niveau des ressources d'eau en France.
+En effet, en présence de différentes formes de pollution qui affectent les ressources d'eau, nous allons étudier lors de ce projet d'une part le taux de la consommation moyenne d'eau par les habitants et d'autre part le niveau des ressources d'eau en France.
 
 Notre objectif consiste, en premier lieu, à trouver des solutions intelligentes pour gérer au mieux la consommation d'eau potable par la population consommatrice au fur et à mesure de son augmentation (penser à compenser par une diminution de la consommation de chaque habitant). Autrement dit, nous visons une sensibilisation digitalisée des habitants aux éco-gestes afin de préserver les ressources d'eau en France. 
 
