@@ -12,8 +12,8 @@ Dans un autre sens, nous avons remarqué qu'une grande majorité de la populatio
 Notre projet vise donc, dans un second lieu, à étudier la qualité d'eau potable voire du robinet dans le but d'améliorer l'expérience des habitants, satisfaire leurs besoins d'eau, faciliter leur quotidien et leur permettre d'économiser de l'argent à long terme tout en garantissant l'accès à une eau potable de meilleure qualité tout en préservant les ressources. 
 
 Dans ce cadre, nous allons chercher à répondre au fur et à mesure de l'avancement de ce projet, aux trois interrogations suivantes :
-- Comment peut-on réaliser une sensibilisation intelligente qui permettra d'envisager les bonnes pratiques lors de l'usage d'eau?
-- Est-ce que l'eau potable contient effectivement des composantes qui ne conviennent pas à l'usage quotidien de la population?
+- Comment peut-on réaliser une sensibilisation intelligente qui permettra d'envisager les bonnes pratiques lors de l'usage d'eau par la population française?
+- Est-ce que l'eau potable contient effectivement des composantes qui ne conviennent pas à l'usage quotidien de la population en France?
 - Si oui, dans quelle mesure peut-on les améliorer?
  
 
